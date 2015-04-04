@@ -7,6 +7,7 @@
 
 '.editor':
   'cmd-shift-n': 'fuzzy-finder:toggle-file-finder'
+  'cmd-n': 'symbols-view:toggle-file-symbols'
   'cmd-1': 'tree-view:toggle'
   'alt-shift-up': 'editor:move-line-up'
   'alt-shift-down':'editor:move-line-down'
@@ -16,6 +17,7 @@
   'ctrl-alt-cmd-up': 'pane:split-right'
   'ctrl-alt-cmd-down': 'pane:split-down'
   'ctrl-w': 'editor:select-word'
+  'cmd-y': 'editor:delete-line'
 
 'atom-workspace atom-text-editor:not([mini])':
   'cmd-d': 'editor:duplicate-lines'
