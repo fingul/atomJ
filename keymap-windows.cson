@@ -28,3 +28,5 @@
   'ctrl-up': 'editor:add-selection-above'
   'ctrl-w': 'editor:select-word'
   'ctrl-y': 'editor:delete-line'
+  'f11': 'bookmarks:toggle-bookmark'
+  'shift-f11': 'bookmarks:view-all'
