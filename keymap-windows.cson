@@ -21,7 +21,7 @@
   'ctrl-down': 'editor:add-selection-below'
   'ctrl-e': 'fuzzy-finder:toggle-buffer-finder'
   'ctrl-l': 'go-to-line:toggle'
-  'ctrl-n': 'fuzzy-finder:toggle-file-finder'
+  'ctrl-shift-n': 'fuzzy-finder:toggle-file-finder'
   'ctrl-shift-a': 'command-palette:toggle'
   'ctrl-shift-down':'editor:move-line-down'
   'ctrl-shift-up': 'editor:move-line-up'
