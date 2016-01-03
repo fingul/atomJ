@@ -1,7 +1,7 @@
 'body':
   'alt-1': 'tree-view:toggle'
   'ctrl-e': 'fuzzy-finder:toggle-buffer-finder'
-  'ctrl-n': 'fuzzy-finder:toggle-file-finder'
+  'ctrl-shift-n': 'fuzzy-finder:toggle-file-finder'
 
 'atom-workspace atom-text-editor:not([mini])':
   'alt-1': 'tree-view:toggle'
