@@ -37,6 +37,9 @@
 # Code navigation and editing
 #
 '.platform-darwin.platform-darwin atom-text-editor':
+  'body':
+    'cmd-shift-z': 'core:redo'
+
   # Navigation
   'cmd-home': 'core:move-to-top'
   'cmd-end': 'core:move-to-bottom'
